@@ -1,5 +1,7 @@
 # Calculadora Científica em Java
 
+[🚀 Experimentar versão web](https://igorsilvadev01.github.io/-calculadora-java-swing/)
+
 Calculadora científica com interface gráfica desenvolvida em Java Swing. O projeto possui um layout compacto, inspirado na calculadora do Windows, com suporte a operações matemáticas, memória e histórico de contas.
 
 ## Recursos
